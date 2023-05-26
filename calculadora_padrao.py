@@ -27,4 +27,3 @@ while True:
         print(m)
     else:
         print('houve um erro')
-print()
