@@ -8,7 +8,6 @@ while True:
     c = input('calcule: ')
     nt = c.split(' ')
     lista = [str(x) for x in nt]
-    print(lista)
 
     if lista[0] == 'sair':
         print('desligando')
